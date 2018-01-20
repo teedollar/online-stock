@@ -1,0 +1,84 @@
+<?php 
+require_once "header.php";
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Online store | About</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="css/coin-slider.css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-georgia.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/coin-slider.min.js"></script>
+</head>
+<body>
+<div class="main">
+  
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+                          
+            <p><span> <h3>Shokem Supermarket Store is located at 1st and 2nd Floor, Tantalizers' Building, Opposite U.I. Main Gate, Ibadan, Oyo State, Nigeria., Ibadan. Our brand is a retail concept birthed over two decades ago with the sole objectives of providing daily consumer needs by offering products in a widely varied classification and assortment. This feat that has recorded tremedous success over the years have been brought about by defined processes for all aspect of operations, highy valued associateship and unbridled drive for excellence and customer satisfaction. </h3></span></p>
+          
+         
+          <div class="clr"></div>
+        </div>
+        
+       
+      </div>
+      <div class="sidebar">
+        <div class="searchform">
+          <form id="formsearch" name="formsearch" method="post" action="#">
+            <span>
+            <input name="editbox_search" class="editbox_search" id="editbox_search" maxlength="80" value="Search our site:" type="text" />
+            </span>
+            <input name="button_search" src="images/search.gif" class="button_search" type="image" />
+          </form>
+        </div>
+        <div class="clr"></div>
+        
+     
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>Image</span> Gallery</h2>
+        <a href="#"><img src="images/gal1.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal2.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal3.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal4.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal5.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal6.jpg" width="75" height="75" alt="" class="gal" /></a> </div>
+      <div class="col c2">
+        <h2><span>Services</span> Overview</h2>
+        <p>Curabitur sed urna id nunc pulvinar semper. Nunc sit amet tortor sit amet lacus sagittis posuere cursus vitae nunc.Etiam venenatis, turpis at eleifend porta, nisl nulla bibendum justo.</p>
+        <ul class="fbg_ul">
+          <li><a href="#">Lorem ipsum dolor labore et dolore.</a></li>
+          <li><a href="#">Excepteur officia deserunt.</a></li>
+          <li><a href="#">Integer tellus ipsum tempor sed.</a></li>
+        </ul>
+      </div>
+      <div class="col c3">
+        <h2><span>Contact</span> Us</h2>
+        <p>You can contact us on these following numbers</p>
+        <p class="contact_info"> 
+          <span>Telephone 1:</span> 08120832823<br />
+          <span>Telephone 2:</span> 07087005455<br />
+          <span>Telephone 3:</span> 08030788000<br />
+          <span>E-mail:</span> <a href="#">shokemsupermart@gmail.com</a> </p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">Copyright &copy; <a href="#">shokem.com</a>. All Rights Reserved</p>
+      <p class="rf">Design by: Badmus Basirat Biodun </a></p>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
